@@ -17,3 +17,8 @@ This project analyzes COVID-19 spread patterns across Indonesian regions using m
 
 ## Results
 The logistic regression model achieved an ROC-AUC score of **0.88**.
+## Exploratory Data Analysis
+
+The following visualizations illustrate key patterns in the dataset, including distribution of new cases, correlation between epidemiological variables, and temporal trends of COVID-19 spread in Indonesia.
+<img width="949" height="619" alt="image" src="https://github.com/user-attachments/assets/0daae2b6-c101-4d71-920b-c5c7cc3e538d" />
+
