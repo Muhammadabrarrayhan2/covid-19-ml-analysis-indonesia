@@ -54,7 +54,7 @@ The project was developed as the final deliverable for the **Data Mining (BBK2LA
 | Team Member | Princenza Alexandria | 102042300105 |
 | Team Member | Tri Novita Sari | 102042300112 |
 | Team Member | Angga Prasetya Putra | 102042300205 |
-| Team Member | Khansa Khairunnisa | 102042300106 |
+
 
 **Supervisor:** Arif Rahman Hakim, S.Kom., M.Kom.
 
