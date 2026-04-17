@@ -87,3 +87,23 @@ Features:
 - Plotly
 - Streamlit
 - Joblib
+
+Results
+This project shows that machine learning can help uncover regional COVID-19 risk patterns and support predictive analysis for public health decision-making. The clustering model highlights differences in provincial case characteristics, while the classification model provides a practical way to identify high-risk conditions.
+
+My Role
+As Team Leader, I was responsible for:
+coordinating the team workflow
+guiding data preprocessing and feature preparation
+overseeing clustering and classification modeling
+supporting dashboard development and integration
+ensuring the project was completed successfully end-to-end
+Future Improvements
+add more advanced classification models
+improve dashboard usability and design
+integrate real-time or updated datasets
+enhance model evaluation with additional metrics
+
+Author
+Muhammad Abrar Rayhan
+Telkom University
